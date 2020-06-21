@@ -1,0 +1,13 @@
+{
+  "__typename": "Parent",
+  "firstName": "John",
+  "lastName": "Doe",
+  "kids": [
+    {
+      "firstName": "Emma"
+    },
+    {
+      "firstName": "Liam"
+    }
+  ]
+}

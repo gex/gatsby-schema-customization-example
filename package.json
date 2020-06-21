@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-parent-kid-resolver-example",
+  "version": "1.0.0",
+  "author": "Gergo Szonyi",
+  "private": true,
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.23.7",
+    "gatsby-source-filesystem": "^2.3.12",
+    "gatsby-transformer-json": "^2.4.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
