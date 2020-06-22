@@ -1,6 +1,7 @@
 {
-  "name": "gatsby-parent-kid-resolver-example",
+  "name": "gatsby-schema-customization-example",
   "version": "1.0.0",
+  "repository": "https://github.com/gex/gatsby-schema-customization-example.git",
   "author": "Gergo Szonyi",
   "private": true,
   "scripts": {
