@@ -8,12 +8,6 @@ module.exports = {
         name: 'data',
         path: path.resolve(__dirname, 'data')
       }
-    },
-    {
-      resolve: 'gatsby-transformer-json',
-      options: {
-        typeName: ({ object }) => object.__typename
-      }
     }
   ]
 }

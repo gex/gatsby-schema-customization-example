@@ -1,8 +1,7 @@
 {
-  "__typename": "Parent",
   "firstName": "John",
   "lastName": "Doe",
-  "kids": [
+  "descendants": [
     {
       "firstName": "Emma"
     },

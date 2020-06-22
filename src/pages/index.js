@@ -5,10 +5,10 @@ const Home = () => (
   <div>
     <h1>Gatsby schema customization example</h1>
     <p>
-      <Link to="/parents">List of parents</Link>
+      <Link to="/ancestors">List of ancestors</Link>
     </p>
     <p>
-      <Link to="/kids">List of kids</Link>
+      <Link to="/descendants">List of descendants</Link>
     </p>
   </div>
 )
