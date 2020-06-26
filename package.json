@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/gex/gatsby-schema-customization-example.git",
   "author": "Gergo Szonyi",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "clean": "gatsby clean",
