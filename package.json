@@ -10,7 +10,7 @@
     "develop": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "^2.23.7",
+    "gatsby": "^4.25.7",
     "gatsby-source-filesystem": "^2.3.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
